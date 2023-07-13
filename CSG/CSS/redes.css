@@ -1,0 +1,106 @@
+body{
+    background-color: beige;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h3{
+    text-align: center;
+}
+
+#lista4 li{
+    display: inline;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+#Facebook{
+    border: 2px solid blue;
+    padding: .5em;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#wattap{
+    border: 2px solid orange;
+    padding: .5em;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#twitter{
+    border: 2px solid aqua;
+    padding: .5em;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#pinterest{
+    border: 2px solid red;
+    padding: .5em;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#instagram{
+    border: 2px solid purple;
+    padding: .5em;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#youtube{
+    border: 2px solid red;
+    padding: .5em;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#li1, #li2, #li3, #li4, #li5, #li6{
+    color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 17px;
+}
+
+a {
+    color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+header {
+    background-color: darkslategrey;
+    padding: 60px;
+    color: blanchedalmond;
+}
+
+ul li a:hover{
+    background-color: black;
+}
+
+#fa{
+    color: blue;
+}
+
+#wa{
+    color: orange;
+}
+
+#Tw{
+    color: aqua;
+}
+
+#pi{
+    color: red;
+}
+
+#in{
+    color: purple;
+}
+
+#yt{
+    color: red;
+}
+

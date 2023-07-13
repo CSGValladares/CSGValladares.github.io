@@ -1,0 +1,40 @@
+h1{
+   text-align: center;
+   font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#imagen1{
+display: block;
+margin: auto;
+}
+
+#lista5 li{
+    display: inline;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+body{
+    background-color: beige;
+}
+
+a {
+    color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 17px;
+}
+
+header {
+    background-color: darkslategrey;
+    padding: 60px;
+    color: blanchedalmond;
+}
+
+ul li a:hover{
+    background-color: black;
+}

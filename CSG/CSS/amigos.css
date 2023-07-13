@@ -1,0 +1,107 @@
+h1,h2, p {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: beige;
+}
+
+header {
+    background-color: darkslategrey;
+    padding: 50px;
+}
+
+ul li a:hover{
+    background-color: black;
+}
+
+a {
+    color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 17px;
+}
+
+#NJ, #Cr, #zp, #fs, #as, #av, #kr, #aw{
+    color: blue;
+}
+
+#imagen3{
+    display: block;
+    margin: auto;
+}
+
+#SP{
+    color: green;
+}
+
+#WT{
+    color: orange;
+}
+
+#TL{
+    color: aqua;
+}
+
+#lista7 li {
+    display: inline;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+/*Margenes de los amigos*/
+#miamor{
+    border: 4px solid purple;
+    padding: .5em;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#criss{
+    border: 2px solid orange;
+    padding: .5em;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#zam{
+    border: 2px solid blue;
+    padding: .5em;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#seme{
+    border: 2px solid red;
+    padding: .5em;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#culon{
+    border: 2px solid rgb(4, 0, 255);
+    padding: .5em;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#vega{
+    border: 2px solid rgb(0, 204, 255);
+    padding: .5em;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#kit{
+    border: 2px solid rgb(0, 255, 13);
+    padding: .5em;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#ata{
+    border: 2px solid rgb(0, 0, 0);
+    padding: .5em;
+    text-align: center;
+    border-radius: 10px;
+}
